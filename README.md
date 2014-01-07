@@ -24,5 +24,3 @@ GPL v3.  Please see the [downloads page](http://fineuploader.com/downloads.html)
 comfortable with the GPL v3 license) please see the [documentation](http://docs.fineuploader.com) for information on building
 your own version-stamped copy of the library.
 
-
-*Fine Uploader is an open-source component of [Widen Enterprises, Inc.](http://www.widen.com/)*
